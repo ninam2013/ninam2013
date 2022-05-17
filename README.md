@@ -1,7 +1,8 @@
-# Привет!&#160;:v:&#160;Меня зовут Евгений.
+# Привет!&#160;:v:&#160;Меня зовут Евгений. Я начинающий Front-end developer.
+## Я начинающий Front-end developer.
  <br>
 
-## Мои желания:  
+## Мои ожидания к будущему месту работы:  
  :ballot_box_with_check: Получение новых знаний   <br>
  :ballot_box_with_check: Работа с опытными коллегами   <br>
  :ballot_box_with_check: Реальные проекты   <br>
@@ -20,7 +21,7 @@
 <br>
 <br>
 
-## Связь:
+## Контактная информация:
 |<img src="./images/email.png" alt="pic" width="50px">   |ninam2013@gmail.com| 
 | :----------------------------------------------------- | ----------------: |
 |<img src="./images/telegram.png" alt="pic" width="50px">|@Ninam1982         | 
