@@ -11,13 +11,12 @@
 
 ## Мой стек:
 <img src="./images/html.png" alt="картинка" width="80px">&#160;
-<img src="./images/css.png" alt="картинка" width="80px">&#160; 
+<img src="./images/css.png" alt="картинка" width="80px">&#160;
 <img src="./images/js.png" alt="картинка" width="80px">&#160;
-<img src="./images/react.png" alt="картинка" height="80px">&#160; 
-<img src="./images/bootstrap.png" alt="картинка" width="80px">&#160;
-<img src="./images/tilda.png" alt="картинка" width="80px">&#160;
-<img src="./images/git.png" alt="картинка" width="80px">  
-
+<img src="./images/react.png" alt="картинка" height="80px">&#160;
+<img src="./images/node.png" alt="картинка" width="80px"> &#160;
+<img src="./images/git.png" alt="картинка" width="80px">&#160;
+<img src="./images/bootstrap.png" alt="картинка" width="80px">
 <br>
 <br>
 
