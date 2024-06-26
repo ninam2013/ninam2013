@@ -21,7 +21,7 @@
 <br>
 
 ## Контактная информация:
-|<img src="./images/email.png" alt="pic" width="50px">   |ninam2013@gmail.com| 
+|<img src="./images/email.png" alt="pic" width="50px">   |-----| 
 | :----------------------------------------------------- | ----------------: |
 |<img src="./images/telegram.png" alt="pic" width="50px">|@Ninam1982         | 
 
